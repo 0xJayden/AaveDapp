@@ -1,0 +1,22 @@
+.content {
+	background-color: #fff1f1;
+	top: 56px;
+	left: 0;
+  	right: 0;
+  	bottom: 0;
+  	display: flex;
+  	position: absolute;
+}
+
+.navbar {
+	background-color: #ffb1b0;
+}
+
+.btn {
+	background-color: #ffb1b0;
+}
+
+.btn2 {
+	background-color: #fff1f1;
+	border: none;
+}
